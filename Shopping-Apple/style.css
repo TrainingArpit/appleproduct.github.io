@@ -104,6 +104,7 @@ text-align: left;
     transition: .5s;
     cursor:pointer;
     opacity:5;
+    z-index:2;
 }
 
 .navigation ul li.active a .icon {
